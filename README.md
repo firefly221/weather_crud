@@ -8,7 +8,6 @@ This is my beginner crud app made with django
 
 
 ## Additional Features
-- Viewing City list
 - Getting latest day with the exact degrees in the location
 
 
